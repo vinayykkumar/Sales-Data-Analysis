@@ -1,1 +1,3 @@
-# Sales-Data-Analysis
+# Retail Sales Analysis and Forecast system
+
+The Retail Sales Forecast project leverages advanced machine learning techniques to deliver accurate sales predictions, with a strong emphasis on robust data preprocessing, feature engineering, and thorough algorithm evaluation. Through a user-friendly Streamlit application, the platform integrates Exploratory Data Analysis (EDA), including univariate and bivariate analysis, to identify key trends, patterns, and valuable data insights. Users can explore store and department performance, compare critical features, and generate personalized sales forecasts. Designed to support data-driven decision-making, the project empowers retailers to optimize strategies and enhance operational efficiency in a competitive market.
