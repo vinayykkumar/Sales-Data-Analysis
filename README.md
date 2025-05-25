@@ -65,3 +65,29 @@ The dataset contains:
 
 ## Project Structure
 
+/data/ # Raw and processed data files
+/notebooks/ # Exploratory data analysis and experiments
+/models/ # Trained ML models
+/scripts/ # Data cleaning, training, and utility scripts
+app.py # Streamlit dashboard application
+requirements.txt
+README.md
+## Usage
+
+- Use `/notebooks` for exploratory data analysis and prototyping.
+- Use `/scripts` to clean data and train machine learning models.
+- Run `app.py` to launch the interactive dashboard.
+
+---
+
+## Future Improvements
+- Real-time data streaming and live analytics
+- Deploy dashboard to cloud platforms (AWS, GCP, Azure)
+- Advanced customer segmentation using clustering algorithms
+- Automated alerting for churn risk and revenue drops
+
+---
+
+## Contributing
+
+Contributions are welcome! Please open issues or submit pull requests for improvements.
